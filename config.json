@@ -1,0 +1,19 @@
+{
+  "params":
+  {
+    "blog_name": "Blogs Project",
+    "tag_line": "The Project is designed to Upload Blogs and to see the Blogs Uploaded by others",
+    "gmail-user":"hassan@gmail.com",
+    "gmail-password":"pass",
+    "about_text": "Project Content",
+    "no_of_posts": 3,
+    "login_image":"login.svg",
+    "admin_user":"admin",
+    "admin_password": "123",
+    "upload_location":"",
+    "local_server":"True",
+    "local_uri": "sqlite:///app.db",
+    "prod_uri":"sqlite:///app.db"
+  }
+
+}
